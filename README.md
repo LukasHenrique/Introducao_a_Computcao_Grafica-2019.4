@@ -25,8 +25,8 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
   <div = class = "coluna">
     <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printPixel.png">
   </div>
-    <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Pixels.png">
   <div>
+    <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Pixels.png">
   </div>
 </div>
 
