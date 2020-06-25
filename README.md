@@ -15,3 +15,5 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <p>Foi criada uma função para poder calcular a posição do pixel, nela se usa expressões que permitem calcular a linha e a coluna e por fim calcular a posição na qual o pixel será inserido.</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Posicao.png">
 
+<li><b>putPixel()</b></li>
+
