@@ -13,4 +13,4 @@ Em síntese, o ojetivo era escrever três funções básicas: PutPixel(), para r
 <ul>
  Sabendo que nossa tela tem um tamanho 512x512, ou seja 512 pixels na horinzontal e 512 na vertical.
  Primero criei uma struct Pixel para armazena x e y que serão usados como coordenadas e uma struct RGBA para as cores.
-<img src = "" alt = "CoordenadasCores">
+
