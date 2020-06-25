@@ -35,4 +35,11 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printLine.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Linhas.png">
 
-<p></p>
+<li><b>Interpolação</b></li>
+<p>&nbsp&nbsp&nbsp Interpolação é quando ocorre uma mudança gradativa na cor da reta. Saindo de um ponto inicial com uma cor até um ponto final de outra corta, durante o traçado da reta ocorre essa transição de cores</p>
+<p>&nbsp&nbsp&nbsp Para podermos implementar esse efeito na reta foi necessário a implementação de expressões na função drawLine(). Já pensando nesse efeito, anteriormente percebe-se que foram definidas duas cores como parâmetro na função drawLine().</p>
+<p>Com essas modificações a segunda parte da função drawLine() ficou dessa forma:</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLieInter.png">
+
+<p>Após a implementação das expressões para interpolação das retas obtevemos este resultado:</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/LinhaInter.png">
