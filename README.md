@@ -51,3 +51,7 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <p>Para definirmos as coordenadas das arestas do triângulo também foi utilizada uma função auxiliar.</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printTriangle.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Triangulo.png">
+
+<p>Por fim foram implementados as três funções juntas através da função MyGlDraw(), onde declaramos as funções auxiliares usadas.</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/mydraw.png">
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Final.png">
