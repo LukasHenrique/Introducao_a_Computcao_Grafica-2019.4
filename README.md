@@ -57,8 +57,10 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Final.png">
 
 <b>Dificuldades</b>
-<p>Foram encontradas difilculdades para fazer a adaptção de algoritmos ou expressões para uma determinada linguagem de programção, tendo como maior difilcudade fazer com que o algoritmo de Bresenham segmentasse suas retas nos demais octantes</p>
+<p>&nbsp&nbsp&nbsp Foram encontradas difilculdades para fazer a adaptção de algoritmos ou expressões para uma determinada linguagem de programção, tendo como maior difilcudade fazer com que o algoritmo de Bresenham segmentasse suas retas nos demais octantes.</p>
 
 <b>Melhorias</b>
-<p>Ao passar de um determinado tamanho as retas não ficam interpoladas</p>
-<p>E dependendo da angulação as ficam tremuladas</p>
+<ul>
+  <li>Ao passar de um determinado tamanho as retas não ficam interpoladas.</li>
+  <li>E dependendo da angulação ou posição a reta fica tremulada.</li>
+</ul>
