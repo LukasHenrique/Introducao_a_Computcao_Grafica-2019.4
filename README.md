@@ -7,8 +7,8 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
     A rasterização dessas primitivas será feita simulado o acesso direto à memória de vídeo.
 
   Em síntese, o ojetivo era escrever três funções básicas: PutPixel(), para resterizar o ponto, DrawLine(), para rasterizar a linha e DrawTriangle(), para rasterizar o triângulo. Mas houve um acréscimo de mais funções;
-
-<li><b>putPixel();</b></li>
   
+  Primeiro criei uma struct para armazena x e y, que serão usados como coordenadas e uma struct para as cores
+  <br>
   <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/CoordenadasCores.png">
 
