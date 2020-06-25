@@ -9,6 +9,9 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <p>Primeiro foi criada uma struct para armazena x e y, que serão usados como coordenadas para os pixels e uma struct para as cores.</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/CoordenadasCores.png">
 
-<p> Em seguida definimos as cores de acordo com o fomato RGBA </p>
+<p>Em seguida definimos as cores de acordo com o fomato RGBA.</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Cores.png">
+
+<p>Foi criada uma função para poder calcular a posição do pixel, nela se usa expressões que permitem calcular a linha e a coluna e por fim calcular a posição na qual o pixel será inserido.</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Posicao.png">
 
