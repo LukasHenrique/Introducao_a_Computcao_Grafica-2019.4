@@ -1,2 +1,2 @@
 # Introdução a Computação Gráfica
-Projetos desenvolvidos para cadeira de Introdução à Computação Gráfica - UFPB
+Repositório para armazenamento de atividades desenvolvidas para cadeira de Introdução à Computação Gráfica - UFPB
