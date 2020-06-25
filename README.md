@@ -8,9 +8,9 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 
 Em síntese, o ojetivo era escrever três funções básicas: PutPixel(), para resterizar o ponto, DrawLine(), para rasterizar a linha e DrawTriangle(), para rasterizar o triângulo. Mas houve um acréscimo de mais funções;
 
-<ul>
-  <li><b>putPixel();</b></li>
-<ul>
- Sabendo que nossa tela tem um tamanho 512x512, ou seja 512 pixels na horinzontal e 512 na vertical.
- Primero criei uma struct Pixel para armazena x e y que serão usados como coordenadas e uma struct RGBA para as cores.
+<li><b>putPixel();</b></li>
+  Sabendo que nossa tela tem um tamanho 512x512, ou seja 512 pixels na horinzontal e 512 na vertical.
+  Primero criei uma struct Pixel para armazena x e y que serão usados como coordenadas e uma struct RGBA para as cores.4
+  
+  <image str = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/CoordenadasCores.png">
 
