@@ -31,6 +31,6 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine1.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine2.png">
 
-<Utilizando uma função auxiliar para definirmos as coordenadas dos pixels esm seguida declaramos a função drawLine(), obtemos o seguinte resultado:>
+<p>Utilizando uma função auxiliar para definirmos as coordenadas dos pixels esm seguida declaramos a função drawLine(), obtemos o seguinte resultado:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printLine.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Linhas.png">
