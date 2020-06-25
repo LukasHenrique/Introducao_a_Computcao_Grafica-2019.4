@@ -7,5 +7,5 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
   A rasterização dessas primitivas será feita simulado o acesso direto à memória de vídeo.
 
 <ul>
-  <li>putPixel();</li>
+  <li><b>putPixel();</b></li>
 <ul>
