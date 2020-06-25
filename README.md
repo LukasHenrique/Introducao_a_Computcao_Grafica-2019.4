@@ -1,2 +1,2 @@
-# ICG-2019.4
-Projetos da cadeira de Introdução à Computação Gráfica - UFPB
+# Introdução a Computação Gráfica
+Projetos desenvolvidos para cadeira de Introdução à Computação Gráfica - UFPB
