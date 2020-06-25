@@ -21,7 +21,7 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 
 <p>&nbsp&nbsp&nbsp Utilizando uma função auxiliar para passar as coordenadas do pixel, em seguida foi chamada a função putPixel passando as coordenadas definidas e a cor como parâmetro do pixel, foram definidos três pixels para serem setados na tela, e obtevoms o seguinte resultado:</p>
 
-<img src = "">
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printPixel.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Pixels.png">
 
 <li><b>drawLine()</b></li>
