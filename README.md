@@ -23,3 +23,5 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Pixels.png">
 
+<li><b>drawLine()</b></li>
+
