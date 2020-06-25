@@ -43,3 +43,11 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 
 <p>Após a implementação das expressões para interpolação das retas obtevemos este resultado:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/LinhaInter.png">
+
+<li><b>drawTriangle()</b></li>
+<p>A função drawTriangle() é bem simples de ser aplicada, basta chamarmos a função drawLine() três vezes.</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawTriangle.png">
+
+<p>Para definirmos as coordenadas das arestas do triângulo também foi utilizada uma função auxiliar.</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printTriangle.png">
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Triangulo.png">
