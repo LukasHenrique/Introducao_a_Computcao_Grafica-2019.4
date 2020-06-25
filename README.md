@@ -16,4 +16,6 @@ Repositório para armazenamento de atividades desenvolvidas para cadeira de Intr
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Posicao.png">
 
 <li><b>putPixel()</b></li>
+<p>Esta função ele acha o endereço de memória utilizando usanso as relações matemáticas acima e seta os valores das componentes R,G,B e A. E nesta função também é analisado se o pixel não ultrapassa o limite da tela</p>
+<img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/putPixel.png">
 
