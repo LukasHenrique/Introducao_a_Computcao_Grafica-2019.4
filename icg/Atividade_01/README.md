@@ -21,7 +21,7 @@
 
 <li><b>drawLine()</b></li>
 <p>&nbsp&nbsp&nbsp Com a função putPixxel() implementada agora é possível traçar segmentos de reta na tela. Para poder realizar essa tarefa foi utilizado o algoritmo de Bresenham, que é um algoritmo tradicional para o desenho de segmentos de retas.</p> 
-<p>&nbsp&nbsp&nbsp O algoritmo de Bresenham baseia-se numa variável de decisão, que aponta para que "lado" o pixel será apontado.</p>
+<p>O algoritmo de Bresenham baseia-se numa variável de decisão, que aponta para que "lado" o pixel será apontado.</p>
 <p>&nbsp&nbsp&nbsp Mas o algoritmo de Bresenham apresenta uma peculiaridade, ele é válido apenas para retas no primeiro octante, mas para as retas nos demais octantes, podem ser representadas com a reflexão sobre os eixos e assim transforma estas para o primeiro octante.</p>
 <p>Aplicando o algoritmos de Bresenham com as devidas alterações na função drawLine(), o mesmo fica da seguinte maneira:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine1.png">
