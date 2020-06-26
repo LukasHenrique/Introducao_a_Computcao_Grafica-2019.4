@@ -1,4 +1,4 @@
-<h2>Atividade 01 - Algoritmos de Raterização</h2>
+<h2>Atividade 01 - Algoritmos de Rasterização</h2>
 <p>Lucas Henrique Cavalcanti da Silva</p>
 <p>&nbsp&nbsp&nbsp Esta primeira atividade tem por intuito desenvolver algoritmos de rasterização de linhas e pontos. Ao final devera ser desenhado um triângulo através da rasterização de linhas que compõe suas arestas.</p>
 <p>A rasterização dessas primitivas será feita simulado o acesso direto à memória de vídeo.</p>
