@@ -12,18 +12,18 @@
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Posicao.png">
 
 <li><b>putPixel()</b></li>
-<p>&nbsp&nbsp&nbsp Esta função ela acha o endereço de memória utilizando usanso as relações matemáticas acima e seta os valores das componentes R,G,B e A. E nesta função também é analisado se o pixel não ultrapassa o limite da tela.</p>
+<p>&nbsp&nbsp&nbsp Esta função ela acha o endereço de memória utilizando as relações matemáticas acima e seta os valores das componentes R,G,B e A. E nesta função também é analisado se o pixel não ultrapassa o limite da tela.</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/putPixel.png">
 
-<p>&nbsp&nbsp&nbsp Utilizando uma função auxiliar para passar as coordenadas do pixel, em seguida foi declarada a função putPixel passando as coordenadas definidas e a cor como parâmetro do pixel, foram definidos três pixels para serem setados na tela, depois declaramos a função auxiliar na função MyGLDraw e obtevoms o seguinte resultado:</p>
+<p>&nbsp&nbsp&nbsp Utilizando uma função auxiliar para passar as coordenadas do pixel, em seguida foi declarada a função putPixel passando as coordenadas definidas e a cor como parâmetro do pixel, foram definidos três pixels para serem setados na tela, depois declaramos a função auxiliar na função MyGlDraw e obtevoms o seguinte resultado:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printPixel.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Pixels.png">
 
 <li><b>drawLine()</b></li>
 <p>&nbsp&nbsp&nbsp Com a função putPixxel() implementada agora é possível traçar segmentos de reta na tela. Para poder realizar essa tarefa foi utilizado o algoritmo de Bresenham, que é um algoritmo tradicional para o desenho de segmentos de retas.</p> 
-<p>&nbsp&nbsp&nbsp O algortimo de Bresenham baseia-se numa variável de decisão, que aponta para que "lado" o pixel será apontado.</p>
-<p>&nbsp&nbsp&nbsp Mas o algoritmo de Bresenham apresenta uma peculiaridade, ele é válido apenas para retas no primeiro octante, mas as retas nos demais octantes podem ser representadas com a reflexão sobre os eixos e assim transforma estas para o primeiro octante.</p>
-<p>Aplicando o algoritmos de Brasenham com as devidas alterações na função drawLine(), o mesmo fica da seguinte maneira:</p>
+<p>&nbsp&nbsp&nbsp O algoritmo de Bresenham baseia-se numa variável de decisão, que aponta para que "lado" o pixel será apontado.</p>
+<p>&nbsp&nbsp&nbsp Mas o algoritmo de Bresenham apresenta uma peculiaridade, ele é válido apenas para retas no primeiro octante, mas para as retas nos demais octantes, podem ser representadas com a reflexão sobre os eixos e assim transforma estas para o primeiro octante.</p>
+<p>Aplicando o algoritmos de Bresenham com as devidas alterações na função drawLine(), o mesmo fica da seguinte maneira:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine1.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine2.png">
 
@@ -32,7 +32,7 @@
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Linhas.png">
 
 <li><b>Interpolação</b></li>
-<p>&nbsp&nbsp&nbsp Interpolação é quando ocorre uma mudança gradativa na cor da reta. Saindo de um ponto inicial com uma cor até um ponto final de outra corta, durante o traçado da reta ocorre essa transição de cores</p>
+<p>&nbsp&nbsp&nbsp Interpolação é quando ocorre uma mudança gradativa na cor da reta. Saindo de um ponto inicial com uma cor até um ponto final de outra corta, durante o traçado da reta ocorre essa transição de cores.</p>
 <p>&nbsp&nbsp&nbsp Para podermos implementar esse efeito na reta foi necessário a implementação de expressões na função drawLine(). Já pensando nesse efeito, anteriormente percebe-se que foram definidas duas cores como parâmetro na função drawLine().</p>
 <p>Com essas modificações a segunda parte da função drawLine() ficou dessa forma:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLieInter.png">
