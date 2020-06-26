@@ -27,7 +27,7 @@
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine1.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/drawLine2.png">
 
-<p>Utilizando uma função auxiliar para definirmos as coordenadas dos pixels esm seguida declaramos a função drawLine(), obtemos o seguinte resultado:</p>
+<p>&nbsp&nbsp&nbsp Utilizando uma função auxiliar para definirmos as coordenadas dos pixels esm seguida declaramos a função drawLine(), obtemos o seguinte resultado:</p>
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/printLine.png">
 <img src = "https://github.com/LukasHenrique/Introducao_a_Computcao_Grafica-2019.4/blob/master/img/Linhas.png">
 
